@@ -1,2 +1,4 @@
 pytest
 pytest-github-actions-annotate-failures
+black
+flake8
