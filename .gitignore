@@ -20,7 +20,7 @@ rad.json
 *.bclicense
 *.flf
 #Test results file
-TestResults.xml
+test-results.xml
 #Cline
 .clinerules
 
